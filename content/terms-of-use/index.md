@@ -4,56 +4,56 @@ date: 2025-03-31
 draft: false
 ---
 
-# Terms of Use
+# Masharti ya Matumizi
 
-_Last updated: March 2025_
+**Imesasishwa mwisho: Machi 2025**
 
-Welcome to BaoLiba! By accessing and using this website, you agree to the following terms:
-
----
-
-### 1. Content Usage
-
-Unless otherwise stated, all content on this website (including articles, images, and data) is created and shared by BaoLiba.  
-We believe in an open, free, and collaborative internet.  
-
-You are welcome to reference, share, or adapt our content—**as long as it’s done respectfully and within the boundaries of applicable laws** (such as proper attribution and non-commercial use, where required).
-
-If you're unsure or plan to use our content for commercial purposes, we kindly ask that you contact us first.
+Karibu BaoLiba! Kwa kufikia na kutumia tovuti hii, unakubali masharti yafuatayo:
 
 ---
 
-### 2. No Warranty
+## 1. Matumizi ya Maudhui
 
-All content provided on this site is for informational purposes only.  
-We do not guarantee the accuracy, completeness, or fitness for any particular purpose.  
-Users access and use this website at their own risk.
+Isiposemwa vinginevyo, maudhui yote kwenye tovuti hii (ikiwemo makala, picha, na data) yameundwa na kushirikiwa na **BaoLiba**.  
+Tunaamini katika mtandao ulio wazi, huru, na wa ushirikiano.
 
----
+Unakaribishwa **kunukuu, kushiriki, au kurekebisha maudhui yetu**—mradi tu yafanywe kwa **heshima** na ndani ya mipaka ya sheria husika (kama vile kuonyesha chanzo sahihi na matumizi yasiyo ya kibiashara, pale inapohitajika).
 
-### 3. External Links
-
-Some pages may contain links to third-party websites or embedded content (e.g. YouTube, social media).  
-We are not responsible for the content, privacy policies, or practices of any third-party websites.
+**Ikiwa hauna uhakika**, au unapanga kutumia maudhui yetu kwa **ajili ya kibiashara**, tunakuomba **uwasiliane nasi kwanza**.
 
 ---
 
-### 4. Changes to Terms
+## 2. Hakuna Dhamana
 
-We may update these terms at any time without prior notice.  
-Please check this page periodically to stay informed.
-
----
-
-### 5. Credits & Acknowledgements
-
-This website is proudly built with [HUGO](https://gohugo.io/), using the free [LoveIt](https://themes.gohugo.io/themes/loveit/) theme.  
-Images are sourced from [Pexels](https://pexels.com), and article content is developed with the assistance of [ChatGPT](https://openai.com/chatgpt).  
-We are grateful for these amazing open tools and communities.
+Maudhui yote yanayotolewa kwenye tovuti hii ni kwa madhumuni ya taarifa tu.  
+Hatudhamini usahihi, ukamilifu, au ufanisi wake kwa matumizi maalum yoyote.  
+Watumiaji wanatumia tovuti hii kwa **hatari yao wenyewe**.
 
 ---
 
-### 6. Contact
+## 3. Viungo vya Nje
 
-If you have any questions or concerns about these terms, please contact us at: **info@baoliba.com**
+Kurasa zingine zinaweza kuwa na viungo vinavyoelekeza kwenye tovuti za watu wengine au maudhui yaliyopachikwa (mfano: YouTube, mitandao ya kijamii).  
+**Hatuwajibikii** maudhui, sera za faragha, au taratibu za tovuti hizo za watu wengine.
 
+---
+
+## 4. Mabadiliko ya Masharti
+
+Tunaweza kubadilisha masharti haya wakati wowote **bila taarifa ya awali**.  
+Tafadhali tembelea ukurasa huu mara kwa mara ili kusasishwa.
+
+---
+
+## 5. Shukrani na Kutambua Mchango
+
+Tovuti hii imejengwa kwa **HUGO**, ikitumia **LoveIt theme** ya bure.  
+Picha zinatoka **Pexels**, na maudhui ya makala yametengenezwa kwa msaada wa **ChatGPT**.  
+Tunashukuru sana kwa zana hizi za wazi na jumuiya zinazowezesha kazi yetu.
+
+---
+
+## 6. Mawasiliano
+
+Ikiwa una maswali au wasiwasi wowote kuhusu masharti haya, tafadhali wasiliana nasi kupitia:  
+**info@baoliba.com**
