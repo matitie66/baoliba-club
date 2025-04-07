@@ -4,41 +4,45 @@ date: 2025-03-31
 draft: false
 ---
 
-# Contact Us
+# Wasiliana Nasi
 
-Thank you for visiting BaoLiba!
+**Asante kwa kutembelea BaoLiba!**
 
-If you have any questions, business inquiries, partnership proposals, or just want to say hello — feel free to reach out. We’d love to hear from you.
+Ikiwa una maswali yoyote, uchunguzi wa kibiashara, mapendekezo ya ushirikiano, au unataka tu kusema “habari” — jisikie huru kuwasiliana nasi. Tunapenda kusikia kutoka kwako!
 
 ---
 
-### 📍 Our Location  
-**BaoLiba** is proudly based in **Changsha, China**.
+## 📍 Mahali Tulipo
 
-**Office Address:**  
+**BaoLiba** ina makao yake makuu kwa fahari huko **Changsha, China.**
+
+**Anuani ya Ofisi:**  
 Room B1, Xinchanghai Center,  
 Lugu, Yuelu District, Changsha City,  
-Hunan Province, China
+Hunan Province, China  
 
-(中文地址：湖南省长沙市岳麓区麓谷新长海中心B1栋)
+_(Kichina: 湖南省长沙市岳麓区麓谷新长海中心B1栋)_
 
 ---
 
-### 📧 Email  
-For all inquiries, please contact:  
+## 📧 Barua Pepe
+
+Kwa maswali yote au mawasiliano, tafadhali tuma barua pepe kwa:  
 **info@baoliba.com**
 
-We typically respond within 1–2 business days.
+Kwa kawaida tunajibu ndani ya **siku 1–2 za kazi.**
 
 ---
 
-### 💬 Languages  
-We speak **English** and **Chinese**, and we work with content in over 12 languages.
+## 💬 Lugha
+
+Tunazungumza **Kiingereza** na **Kichina**, na tunafanya kazi na maudhui katika zaidi ya **lugha 12.**
 
 ---
 
-### 📢 Let’s Collaborate  
-Whether you're a brand, influencer, agency, or platform —  
-If you're interested in cross-border influencer marketing, localization, or content production, we're happy to connect.
+## 📢 Tushirikiane
 
-Let’s grow globally, together.
+Iwe wewe ni chapa, mshawishi (influencer), wakala, au jukwaa —  
+Ikiwa unavutiwa na **masoko ya washawishi ya kuvuka mipaka**, **ukulazishaji wa maudhui**, au **uzalishaji wa maudhui**, tunafurahi kuwasiliana.
+
+**Tukue pamoja kimataifa!**
