@@ -1,0 +1,98 @@
+# =========================
+# ✅ 每个站点都必须定制的字段（请根据语言/国家修改）
+# =========================
+baseURL = "https://baoliba.club/"
+languageCode = "sw"
+languageName = "Kiswahili"
+defaultContentLanguage = "sw"
+title = "BaoLiba 🇰🇪"
+theme = "LoveIt"
+
+[params]
+
+  # ✅ SEO 设置
+  title = "BaoLiba - Jukwaa la Kimataifa la Wenye Ushawishi"
+  description = "BaoLiba ni jukwaa la kimataifa la ushawishi linalosaidia chapa za kimataifa kuungana na wabunifu wa ndani katika nchi 50+."
+  keywords = ["masoko ya wenye ushawishi", "BaoLiba", "wawasilishaji wa Kenya", "ushirikiano wa chapa", "biashara mtandaoni kuvuka mipaka"]
+
+  # ✅ 顶部 Logo
+  [params.header.title]
+    name = "BaoLiba - Jukwaa la Kimataifa la Wenye Ushawishi"
+    pre = ""
+    post = ""
+    typeit = false
+
+  # ✅ 应用外观（PWA）
+  [params.app]
+    title = "BaoLiba 🇰🇪"
+    svgFavicon = "favicon.png"
+    noFavicon = false
+    themeColor = "#ffffff"
+    iconColor = "#5bbad5"
+    tileColor = "#da532c"
+
+  # ✅ 样式控制
+  defaultTheme = "light"
+  disableThemeSwitch = true
+  customCSS = ["css/extended.css"]
+
+  # ✅ 站点图标
+  [params.assets]
+    favicon = "/favicon.png"
+
+  # ✅ 页脚内容
+  [params.footer]
+    enable = true
+    hugo = false
+    author = false
+    copyright = false
+    since = 2025
+    custom = '''
+    <div class="footer-links">
+      <a href="https://baoliba.com/" target="_blank" rel="noopener">BaoLiba</a> |
+      <a href="/about/">Kuhusu Sisi</a> |
+      <a href="/privacy-policy/">Sera ya Faragha</a> |
+      <a href="/terms-of-use/">Masharti ya Matumizi</a> |
+      <a href="/contact-us/">Wasiliana Nasi</a>
+    </div>
+    '''
+
+  # ✅ 页面设置
+  [params.page]
+    author = false
+    layout = "post"
+
+# =========================
+# ✅ 通用配置（所有站点都可共用，无需修改）
+# =========================
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+canonifyURLs = true
+uglyURLs = false
+
+[markup.highlight]
+  noClasses = false
+
+[frontmatter]
+  format = "yaml"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Machapisho"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Lebo"
+    url = "/tags/"
+    weight = 2
