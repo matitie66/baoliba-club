@@ -4,29 +4,39 @@ date: 2025-03-31
 draft: false
 ---
 
-**Privacy Policy**
+# Sera ya Faragha
 
-Last updated: [March 2025]
+**Imesasishwa mwisho: [Machi 2025]**
 
-This blog is operated by BaoLiba. We respect your privacy and are committed to keeping this site simple and transparent.
+Blogu hii inaendeshwa na **BaoLiba**. Tunaheshimu faragha yako na tumejitolea kuweka tovuti hii iwe rahisi na wazi.
 
-**1. What we collect**
+---
 
-We do not collect personal data directly.  
-We do not offer login, comment, or registration features.
+## 1. Tunachokusanya
 
-However, we may use third-party services such as Google Analytics to help understand traffic behavior. These services may use cookies or anonymized IP tracking.
+Hatukusanyi taarifa binafsi moja kwa moja.  
+Hatutoi huduma za kuingia (login), kutoa maoni (comment), au usajili (registration).
 
-**2. Cookies**
+Hata hivyo, tunaweza kutumia huduma za watu wengine kama vile **Google Analytics** ili kuelewa tabia ya watembeleaji wa tovuti. Huduma hizi zinaweza kutumia **cookies** au **ufuatiliaji wa IP usiotambulisha jina**.
 
-Some pages may use cookies via third-party plugins or embedded media (e.g., videos, maps).  
-You can disable cookies in your browser settings.
+---
 
-**3. External links**
+## 2. Vidakuzi (Cookies)
 
-Our site may contain links to other websites. We are not responsible for their privacy practices.
+Kurasa zingine zinaweza kutumia vidakuzi kupitia programu-jalizi (plugins) za watu wengine au vyombo vilivyopachikwa (mfano: video, ramani).  
+Unaweza **kuzima vidakuzi** kupitia mipangilio ya kivinjari chako.
 
-**4. Contact**
+---
 
-If you have any questions, feel free to contact us at: info@baoliba.com
+## 3. Viungo vya Nje
+
+Tovuti yetu inaweza kuwa na viungo vinavyoelekeza kwenye tovuti zingine.  
+**Hatuwajibikii sera zao za faragha** au mazoea yao ya matumizi ya data.
+
+---
+
+## 4. Mawasiliano
+
+Ikiwa una maswali yoyote kuhusu sera hii ya faragha, tafadhali wasiliana nasi kupitia:  
+**info@baoliba.com**
 
